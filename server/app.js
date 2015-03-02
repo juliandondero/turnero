@@ -8,7 +8,7 @@
 process.env.NODE_ENV = process.env.NODE_ENV || 'development';
 
 var loggers=require('./loggers')();
-
+var autoupdater=require('./update-script')();
 
 var express = require('express');
 var config = require('./config/environment');

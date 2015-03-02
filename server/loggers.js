@@ -27,11 +27,24 @@ var configLoggers=function() {
         }
     });
 
+    winston.loggers.add('updater_logger', {
+        console: {
+            level: 'silly',
+            colorize: true,
+            label: 'UPDATER'
+        },
+        file: {
+            filename: config.sponsor.dir_logs+'updater.log',
+            maxsize:10*1024
+        }
+    });
+
 
 
     return {
         sponsor_logger:winston.loggers.get('spponsor_logger'),
-        turnero_logger:winston.loggers.get('turnero_logger')
+        turnero_logger:winston.loggers.get('turnero_logger'),
+        updater_logger:winston.loggers.get('updater_logger')
     };
 
 };

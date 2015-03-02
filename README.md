@@ -1,2 +1,0 @@
-# turnero
-zetti turnero
