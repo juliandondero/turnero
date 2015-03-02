@@ -1,0 +1,99 @@
+{"level":"info","message":"Iniciando el modulo de pautas...","timestamp":"2015-03-02T20:35:34.049Z"}
+{"level":"info","message":"Conectando a base dedatos...: ","timestamp":"2015-03-02T20:35:34.072Z"}
+{"level":"info","message":"Esperando mensajes en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/input/","timestamp":"2015-03-02T20:35:34.304Z"}
+{"level":"info","message":"Escribiendo salida en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/output/","timestamp":"2015-03-02T20:35:34.305Z"}
+{"level":"info","message":"****************** INFO *****************","timestamp":"2015-03-02T20:35:34.497Z"}
+{"level":"info","message":"NODO: 1962502","timestamp":"2015-03-02T20:35:34.498Z"}
+{"level":"info","message":"idAdministrador: 2003840","timestamp":"2015-03-02T20:35:34.498Z"}
+{"level":"info","message":"id sponsor oficial del administrador: 2003842","timestamp":"2015-03-02T20:35:34.498Z"}
+{"level":"info","message":"Sponsors Oficiales Encontrados: 2","timestamp":"2015-03-02T20:35:34.498Z"}
+{"level":"info","message":"Pautas: 0","timestamp":"2015-03-02T20:35:34.498Z"}
+{"level":"info","message":"Muletos Administrador: 22","timestamp":"2015-03-02T20:35:34.498Z"}
+{"level":"info","message":"Muletos por Main Sponsor: 0","timestamp":"2015-03-02T20:35:34.499Z"}
+{"level":"info","message":"Muletos por Main Sponsor Propios: 1","timestamp":"2015-03-02T20:35:34.499Z"}
+{"level":"info","message":"****************** FIN INFO *****************","timestamp":"2015-03-02T20:35:34.499Z"}
+{"level":"info","message":"averiguarNodoFn - OK","timestamp":"2015-03-02T20:35:34.499Z"}
+{"level":"info","message":"getTiemposSponsorFn - OK","timestamp":"2015-03-02T20:35:34.499Z"}
+{"level":"info","message":"No se encontron pautas por grupo","timestamp":"2015-03-02T20:35:34.499Z"}
+{"level":"info","message":"getAdministradorIdFn - OK","timestamp":"2015-03-02T20:35:34.499Z"}
+{"level":"info","message":"getSponsorsDeMainSponsorsFn - OK","timestamp":"2015-03-02T20:35:34.499Z"}
+{"level":"info","message":"getSponsorsDeAdministradorFn - OK","timestamp":"2015-03-02T20:35:34.500Z"}
+{"level":"info","message":"getPautasMuletoAdministradorFn - OK","timestamp":"2015-03-02T20:35:34.500Z"}
+{"level":"info","message":"getPautasMuleto - OK","timestamp":"2015-03-02T20:35:34.500Z"}
+{"level":"info","message":"Pautas a descargar: 22","timestamp":"2015-03-02T20:35:34.502Z"}
+{"level":"info","message":"Iniciando el modulo de pautas...","timestamp":"2015-03-02T20:35:41.153Z"}
+{"level":"info","message":"Conectando a base dedatos...: ","timestamp":"2015-03-02T20:35:41.163Z"}
+{"level":"info","message":"Esperando mensajes en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/input/","timestamp":"2015-03-02T20:35:41.243Z"}
+{"level":"info","message":"Escribiendo salida en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/output/","timestamp":"2015-03-02T20:35:41.243Z"}
+{"level":"info","message":"****************** INFO *****************","timestamp":"2015-03-02T20:35:41.395Z"}
+{"level":"info","message":"NODO: 1962502","timestamp":"2015-03-02T20:35:41.395Z"}
+{"level":"info","message":"idAdministrador: 2003840","timestamp":"2015-03-02T20:35:41.396Z"}
+{"level":"info","message":"id sponsor oficial del administrador: 2003842","timestamp":"2015-03-02T20:35:41.396Z"}
+{"level":"info","message":"Sponsors Oficiales Encontrados: 2","timestamp":"2015-03-02T20:35:41.396Z"}
+{"level":"info","message":"Pautas: 0","timestamp":"2015-03-02T20:35:41.396Z"}
+{"level":"info","message":"Muletos Administrador: 22","timestamp":"2015-03-02T20:35:41.396Z"}
+{"level":"info","message":"Muletos por Main Sponsor: 0","timestamp":"2015-03-02T20:35:41.397Z"}
+{"level":"info","message":"Muletos por Main Sponsor Propios: 1","timestamp":"2015-03-02T20:35:41.397Z"}
+{"level":"info","message":"****************** FIN INFO *****************","timestamp":"2015-03-02T20:35:41.397Z"}
+{"level":"info","message":"averiguarNodoFn - OK","timestamp":"2015-03-02T20:35:41.397Z"}
+{"level":"info","message":"getTiemposSponsorFn - OK","timestamp":"2015-03-02T20:35:41.397Z"}
+{"level":"info","message":"No se encontron pautas por grupo","timestamp":"2015-03-02T20:35:41.397Z"}
+{"level":"info","message":"getAdministradorIdFn - OK","timestamp":"2015-03-02T20:35:41.398Z"}
+{"level":"info","message":"getSponsorsDeMainSponsorsFn - OK","timestamp":"2015-03-02T20:35:41.398Z"}
+{"level":"info","message":"getSponsorsDeAdministradorFn - OK","timestamp":"2015-03-02T20:35:41.398Z"}
+{"level":"info","message":"getPautasMuletoAdministradorFn - OK","timestamp":"2015-03-02T20:35:41.398Z"}
+{"level":"info","message":"getPautasMuleto - OK","timestamp":"2015-03-02T20:35:41.399Z"}
+{"level":"info","message":"Pautas a descargar: 22","timestamp":"2015-03-02T20:35:41.400Z"}
+{"level":"info","message":"Iniciando el modulo de pautas...","timestamp":"2015-03-02T20:36:00.532Z"}
+{"level":"info","message":"Conectando a base dedatos...: ","timestamp":"2015-03-02T20:36:00.543Z"}
+{"level":"info","message":"Esperando mensajes en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/input/","timestamp":"2015-03-02T20:36:00.648Z"}
+{"level":"info","message":"Escribiendo salida en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/output/","timestamp":"2015-03-02T20:36:00.649Z"}
+{"level":"info","message":"****************** INFO *****************","timestamp":"2015-03-02T20:36:00.804Z"}
+{"level":"info","message":"NODO: 1962502","timestamp":"2015-03-02T20:36:00.805Z"}
+{"level":"info","message":"idAdministrador: 2003840","timestamp":"2015-03-02T20:36:00.806Z"}
+{"level":"info","message":"id sponsor oficial del administrador: 2003842","timestamp":"2015-03-02T20:36:00.806Z"}
+{"level":"info","message":"Sponsors Oficiales Encontrados: 2","timestamp":"2015-03-02T20:36:00.806Z"}
+{"level":"info","message":"Pautas: 0","timestamp":"2015-03-02T20:36:00.806Z"}
+{"level":"info","message":"Muletos Administrador: 22","timestamp":"2015-03-02T20:36:00.806Z"}
+{"level":"info","message":"Muletos por Main Sponsor: 0","timestamp":"2015-03-02T20:36:00.807Z"}
+{"level":"info","message":"Muletos por Main Sponsor Propios: 1","timestamp":"2015-03-02T20:36:00.807Z"}
+{"level":"info","message":"****************** FIN INFO *****************","timestamp":"2015-03-02T20:36:00.807Z"}
+{"level":"info","message":"averiguarNodoFn - OK","timestamp":"2015-03-02T20:36:00.807Z"}
+{"level":"info","message":"getTiemposSponsorFn - OK","timestamp":"2015-03-02T20:36:00.807Z"}
+{"level":"info","message":"No se encontron pautas por grupo","timestamp":"2015-03-02T20:36:00.807Z"}
+{"level":"info","message":"getAdministradorIdFn - OK","timestamp":"2015-03-02T20:36:00.807Z"}
+{"level":"info","message":"getSponsorsDeMainSponsorsFn - OK","timestamp":"2015-03-02T20:36:00.807Z"}
+{"level":"info","message":"getSponsorsDeAdministradorFn - OK","timestamp":"2015-03-02T20:36:00.807Z"}
+{"level":"info","message":"getPautasMuletoAdministradorFn - OK","timestamp":"2015-03-02T20:36:00.808Z"}
+{"level":"info","message":"getPautasMuleto - OK","timestamp":"2015-03-02T20:36:00.808Z"}
+{"level":"info","message":"Pautas a descargar: 22","timestamp":"2015-03-02T20:36:00.809Z"}
+{"level":"info","message":"v1-aseptobron.mp4 downloaded to ./server/videos/","timestamp":"2015-03-02T20:40:32.542Z"}
+{"level":"info","message":"Iniciando el modulo de pautas...","timestamp":"2015-03-02T20:40:51.086Z"}
+{"level":"info","message":"Conectando a base dedatos...: ","timestamp":"2015-03-02T20:40:51.095Z"}
+{"level":"info","message":"Esperando mensajes en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/input/","timestamp":"2015-03-02T20:40:51.183Z"}
+{"level":"info","message":"Escribiendo salida en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/output/","timestamp":"2015-03-02T20:40:51.184Z"}
+{"level":"info","message":"****************** INFO *****************","timestamp":"2015-03-02T20:40:51.345Z"}
+{"level":"info","message":"NODO: 1962502","timestamp":"2015-03-02T20:40:51.346Z"}
+{"level":"info","message":"idAdministrador: 2003840","timestamp":"2015-03-02T20:40:51.346Z"}
+{"level":"info","message":"id sponsor oficial del administrador: 2003842","timestamp":"2015-03-02T20:40:51.346Z"}
+{"level":"info","message":"Sponsors Oficiales Encontrados: 2","timestamp":"2015-03-02T20:40:51.346Z"}
+{"level":"info","message":"Pautas: 0","timestamp":"2015-03-02T20:40:51.347Z"}
+{"level":"info","message":"Muletos Administrador: 22","timestamp":"2015-03-02T20:40:51.347Z"}
+{"level":"info","message":"Muletos por Main Sponsor: 0","timestamp":"2015-03-02T20:40:51.347Z"}
+{"level":"info","message":"Muletos por Main Sponsor Propios: 1","timestamp":"2015-03-02T20:40:51.347Z"}
+{"level":"info","message":"****************** FIN INFO *****************","timestamp":"2015-03-02T20:40:51.347Z"}
+{"level":"info","message":"averiguarNodoFn - OK","timestamp":"2015-03-02T20:40:51.347Z"}
+{"level":"info","message":"getTiemposSponsorFn - OK","timestamp":"2015-03-02T20:40:51.348Z"}
+{"level":"info","message":"No se encontron pautas por grupo","timestamp":"2015-03-02T20:40:51.348Z"}
+{"level":"info","message":"getAdministradorIdFn - OK","timestamp":"2015-03-02T20:40:51.348Z"}
+{"level":"info","message":"getSponsorsDeMainSponsorsFn - OK","timestamp":"2015-03-02T20:40:51.348Z"}
+{"level":"info","message":"getSponsorsDeAdministradorFn - OK","timestamp":"2015-03-02T20:40:51.348Z"}
+{"level":"info","message":"getPautasMuletoAdministradorFn - OK","timestamp":"2015-03-02T20:40:51.348Z"}
+{"level":"info","message":"getPautasMuleto - OK","timestamp":"2015-03-02T20:40:51.348Z"}
+{"level":"info","message":"Pautas a descargar: 22","timestamp":"2015-03-02T20:40:51.350Z"}
+{"level":"info","message":"./server/videos/v1-aseptobron.mp4 ya existe.","timestamp":"2015-03-02T20:40:51.435Z"}
+{"level":"info","message":"Iniciando el modulo de pautas...","timestamp":"2015-03-02T20:41:05.879Z"}
+{"level":"info","message":"Conectando a base dedatos...: ","timestamp":"2015-03-02T20:41:05.889Z"}
+{"level":"info","message":"Esperando mensajes en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/input/","timestamp":"2015-03-02T20:41:06.196Z"}
+{"level":"info","message":"Escribiendo salida en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/output/","timestamp":"2015-03-02T20:41:06.199Z"}
+{"level":"info","message":"****************** INFO *****************","timestamp":"2015-03-02T20:41:06.401Z"}

@@ -1,0 +1,154 @@
+{"level":"info","message":"Iniciando el modulo de pautas...","timestamp":"2015-03-02T20:57:45.679Z"}
+{"level":"info","message":"Conectando a base dedatos...: ","timestamp":"2015-03-02T20:57:45.682Z"}
+{"level":"info","message":"****************** INFO *****************","timestamp":"2015-03-02T20:57:45.863Z"}
+{"level":"info","message":"NODO: 1962502","timestamp":"2015-03-02T20:57:45.864Z"}
+{"level":"info","message":"idAdministrador: 2003840","timestamp":"2015-03-02T20:57:45.864Z"}
+{"level":"info","message":"id sponsor oficial del administrador: 2003842","timestamp":"2015-03-02T20:57:45.864Z"}
+{"level":"info","message":"Sponsors Oficiales Encontrados: 2","timestamp":"2015-03-02T20:57:45.864Z"}
+{"level":"info","message":"Pautas: 0","timestamp":"2015-03-02T20:57:45.865Z"}
+{"level":"info","message":"Muletos Administrador: 22","timestamp":"2015-03-02T20:57:45.865Z"}
+{"level":"info","message":"Muletos por Main Sponsor: 0","timestamp":"2015-03-02T20:57:45.865Z"}
+{"level":"info","message":"Muletos por Main Sponsor Propios: 1","timestamp":"2015-03-02T20:57:45.865Z"}
+{"level":"info","message":"****************** FIN INFO *****************","timestamp":"2015-03-02T20:57:45.865Z"}
+{"level":"info","message":"averiguarNodoFn - OK","timestamp":"2015-03-02T20:57:45.865Z"}
+{"level":"info","message":"getTiemposSponsorFn - OK","timestamp":"2015-03-02T20:57:45.866Z"}
+{"level":"info","message":"No se encontron pautas por grupo","timestamp":"2015-03-02T20:57:45.866Z"}
+{"level":"info","message":"getAdministradorIdFn - OK","timestamp":"2015-03-02T20:57:45.866Z"}
+{"level":"info","message":"getSponsorsDeMainSponsorsFn - OK","timestamp":"2015-03-02T20:57:45.866Z"}
+{"level":"info","message":"getSponsorsDeAdministradorFn - OK","timestamp":"2015-03-02T20:57:45.866Z"}
+{"level":"info","message":"getPautasMuletoAdministradorFn - OK","timestamp":"2015-03-02T20:57:45.866Z"}
+{"level":"info","message":"getPautasMuleto - OK","timestamp":"2015-03-02T20:57:45.866Z"}
+{"level":"info","message":"Pautas a descargar: 22","timestamp":"2015-03-02T20:57:45.867Z"}
+{"level":"info","message":"Iniciando el modulo de pautas...","timestamp":"2015-03-02T20:58:25.140Z"}
+{"level":"info","message":"Conectando a base dedatos...: ","timestamp":"2015-03-02T20:58:25.151Z"}
+{"level":"info","message":"****************** INFO *****************","timestamp":"2015-03-02T20:58:25.298Z"}
+{"level":"info","message":"NODO: 1962502","timestamp":"2015-03-02T20:58:25.299Z"}
+{"level":"info","message":"idAdministrador: 2003840","timestamp":"2015-03-02T20:58:25.299Z"}
+{"level":"info","message":"id sponsor oficial del administrador: 2003842","timestamp":"2015-03-02T20:58:25.299Z"}
+{"level":"info","message":"Sponsors Oficiales Encontrados: 2","timestamp":"2015-03-02T20:58:25.299Z"}
+{"level":"info","message":"Pautas: 0","timestamp":"2015-03-02T20:58:25.300Z"}
+{"level":"info","message":"Muletos Administrador: 22","timestamp":"2015-03-02T20:58:25.300Z"}
+{"level":"info","message":"Muletos por Main Sponsor: 0","timestamp":"2015-03-02T20:58:25.300Z"}
+{"level":"info","message":"Muletos por Main Sponsor Propios: 1","timestamp":"2015-03-02T20:58:25.302Z"}
+{"level":"info","message":"****************** FIN INFO *****************","timestamp":"2015-03-02T20:58:25.302Z"}
+{"level":"info","message":"averiguarNodoFn - OK","timestamp":"2015-03-02T20:58:25.303Z"}
+{"level":"info","message":"getTiemposSponsorFn - OK","timestamp":"2015-03-02T20:58:25.303Z"}
+{"level":"info","message":"No se encontron pautas por grupo","timestamp":"2015-03-02T20:58:25.303Z"}
+{"level":"info","message":"getAdministradorIdFn - OK","timestamp":"2015-03-02T20:58:25.303Z"}
+{"level":"info","message":"getSponsorsDeMainSponsorsFn - OK","timestamp":"2015-03-02T20:58:25.304Z"}
+{"level":"info","message":"getSponsorsDeAdministradorFn - OK","timestamp":"2015-03-02T20:58:25.304Z"}
+{"level":"info","message":"getPautasMuletoAdministradorFn - OK","timestamp":"2015-03-02T20:58:25.304Z"}
+{"level":"info","message":"getPautasMuleto - OK","timestamp":"2015-03-02T20:58:25.304Z"}
+{"level":"info","message":"Pautas a descargar: 22","timestamp":"2015-03-02T20:58:25.304Z"}
+{"level":"info","message":"Iniciando el modulo de pautas...","timestamp":"2015-03-02T20:58:40.779Z"}
+{"level":"info","message":"Conectando a base dedatos...: ","timestamp":"2015-03-02T20:58:40.781Z"}
+{"level":"info","message":"****************** INFO *****************","timestamp":"2015-03-02T20:58:41.129Z"}
+{"level":"info","message":"NODO: 1962502","timestamp":"2015-03-02T20:58:41.129Z"}
+{"level":"info","message":"idAdministrador: 2003840","timestamp":"2015-03-02T20:58:41.129Z"}
+{"level":"info","message":"id sponsor oficial del administrador: 2003842","timestamp":"2015-03-02T20:58:41.130Z"}
+{"level":"info","message":"Sponsors Oficiales Encontrados: 2","timestamp":"2015-03-02T20:58:41.130Z"}
+{"level":"info","message":"Pautas: 0","timestamp":"2015-03-02T20:58:41.130Z"}
+{"level":"info","message":"Muletos Administrador: 22","timestamp":"2015-03-02T20:58:41.130Z"}
+{"level":"info","message":"Muletos por Main Sponsor: 0","timestamp":"2015-03-02T20:58:41.130Z"}
+{"level":"info","message":"Muletos por Main Sponsor Propios: 1","timestamp":"2015-03-02T20:58:41.130Z"}
+{"level":"info","message":"****************** FIN INFO *****************","timestamp":"2015-03-02T20:58:41.130Z"}
+{"level":"info","message":"averiguarNodoFn - OK","timestamp":"2015-03-02T20:58:41.131Z"}
+{"level":"info","message":"getTiemposSponsorFn - OK","timestamp":"2015-03-02T20:58:41.131Z"}
+{"level":"info","message":"No se encontron pautas por grupo","timestamp":"2015-03-02T20:58:41.131Z"}
+{"level":"info","message":"getAdministradorIdFn - OK","timestamp":"2015-03-02T20:58:41.131Z"}
+{"level":"info","message":"getSponsorsDeMainSponsorsFn - OK","timestamp":"2015-03-02T20:58:41.131Z"}
+{"level":"info","message":"getSponsorsDeAdministradorFn - OK","timestamp":"2015-03-02T20:58:41.132Z"}
+{"level":"info","message":"getPautasMuletoAdministradorFn - OK","timestamp":"2015-03-02T20:58:41.134Z"}
+{"level":"info","message":"getPautasMuleto - OK","timestamp":"2015-03-02T20:58:41.136Z"}
+{"level":"info","message":"Pautas a descargar: 22","timestamp":"2015-03-02T20:58:41.138Z"}
+{"level":"info","message":"Iniciando el modulo de pautas...","timestamp":"2015-03-02T20:59:51.955Z"}
+{"level":"info","message":"Conectando a base dedatos...: ","timestamp":"2015-03-02T20:59:51.964Z"}
+{"level":"info","message":"****************** INFO *****************","timestamp":"2015-03-02T20:59:52.100Z"}
+{"level":"info","message":"NODO: 1962502","timestamp":"2015-03-02T20:59:52.100Z"}
+{"level":"info","message":"idAdministrador: 2003840","timestamp":"2015-03-02T20:59:52.100Z"}
+{"level":"info","message":"id sponsor oficial del administrador: 2003842","timestamp":"2015-03-02T20:59:52.101Z"}
+{"level":"info","message":"Sponsors Oficiales Encontrados: 2","timestamp":"2015-03-02T20:59:52.101Z"}
+{"level":"info","message":"Pautas: 0","timestamp":"2015-03-02T20:59:52.101Z"}
+{"level":"info","message":"Muletos Administrador: 22","timestamp":"2015-03-02T20:59:52.101Z"}
+{"level":"info","message":"Muletos por Main Sponsor: 0","timestamp":"2015-03-02T20:59:52.101Z"}
+{"level":"info","message":"Muletos por Main Sponsor Propios: 1","timestamp":"2015-03-02T20:59:52.101Z"}
+{"level":"info","message":"****************** FIN INFO *****************","timestamp":"2015-03-02T20:59:52.101Z"}
+{"level":"info","message":"averiguarNodoFn - OK","timestamp":"2015-03-02T20:59:52.102Z"}
+{"level":"info","message":"getTiemposSponsorFn - OK","timestamp":"2015-03-02T20:59:52.102Z"}
+{"level":"info","message":"No se encontron pautas por grupo","timestamp":"2015-03-02T20:59:52.102Z"}
+{"level":"info","message":"getAdministradorIdFn - OK","timestamp":"2015-03-02T20:59:52.102Z"}
+{"level":"info","message":"getSponsorsDeMainSponsorsFn - OK","timestamp":"2015-03-02T20:59:52.102Z"}
+{"level":"info","message":"getSponsorsDeAdministradorFn - OK","timestamp":"2015-03-02T20:59:52.102Z"}
+{"level":"info","message":"getPautasMuletoAdministradorFn - OK","timestamp":"2015-03-02T20:59:52.102Z"}
+{"level":"info","message":"getPautasMuleto - OK","timestamp":"2015-03-02T20:59:52.102Z"}
+{"level":"info","message":"Pautas a descargar: 22","timestamp":"2015-03-02T20:59:52.103Z"}
+{"level":"info","message":"Iniciando el modulo de pautas...","timestamp":"2015-03-02T21:01:07.091Z"}
+{"level":"info","message":"Conectando a base dedatos...: ","timestamp":"2015-03-02T21:01:07.099Z"}
+{"level":"info","message":"Esperando mensajes en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/input/","timestamp":"2015-03-02T21:01:07.192Z"}
+{"level":"info","message":"Escribiendo salida en: /home/juli/Zetti/zTurnosServerWorkspace/xml-endpoint/output/","timestamp":"2015-03-02T21:01:07.193Z"}
+{"level":"info","message":"****************** INFO *****************","timestamp":"2015-03-02T21:01:07.418Z"}
+{"level":"info","message":"NODO: 1962502","timestamp":"2015-03-02T21:01:07.419Z"}
+{"level":"info","message":"idAdministrador: 2003840","timestamp":"2015-03-02T21:01:07.419Z"}
+{"level":"info","message":"getPautasMuletoAdministradorFn - OK","timestamp":"2015-03-02T21:01:07.422Z"}
+{"level":"info","message":"id sponsor oficial del administrador: 2003842","timestamp":"2015-03-02T21:01:07.419Z"}
+{"level":"info","message":"getPautasMuleto - OK","timestamp":"2015-03-02T21:01:07.422Z"}
+{"level":"info","message":"Sponsors Oficiales Encontrados: 2","timestamp":"2015-03-02T21:01:07.419Z"}
+{"level":"info","message":"Pautas a descargar: 22","timestamp":"2015-03-02T21:01:07.424Z"}
+{"level":"info","message":"Pautas: 0","timestamp":"2015-03-02T21:01:07.419Z"}
+{"level":"info","message":"Muletos Administrador: 22","timestamp":"2015-03-02T21:01:07.420Z"}
+{"level":"info","message":"Muletos por Main Sponsor: 0","timestamp":"2015-03-02T21:01:07.420Z"}
+{"level":"info","message":"Muletos por Main Sponsor Propios: 1","timestamp":"2015-03-02T21:01:07.420Z"}
+{"level":"info","message":"****************** FIN INFO *****************","timestamp":"2015-03-02T21:01:07.420Z"}
+{"level":"info","message":"averiguarNodoFn - OK","timestamp":"2015-03-02T21:01:07.421Z"}
+{"level":"info","message":"getTiemposSponsorFn - OK","timestamp":"2015-03-02T21:01:07.421Z"}
+{"level":"info","message":"No se encontron pautas por grupo","timestamp":"2015-03-02T21:01:07.421Z"}
+{"level":"info","message":"getAdministradorIdFn - OK","timestamp":"2015-03-02T21:01:07.422Z"}
+{"level":"info","message":"getSponsorsDeMainSponsorsFn - OK","timestamp":"2015-03-02T21:01:07.422Z"}
+{"level":"info","message":"getSponsorsDeAdministradorFn - OK","timestamp":"2015-03-02T21:01:07.422Z"}
+{"level":"info","message":"Tamaño de archivo remoto: 2413219","timestamp":"2015-03-02T21:01:07.494Z"}
+{"level":"info","message":"Tamaño de archivo remoto: 9357878","timestamp":"2015-03-02T21:01:07.502Z"}
+{"level":"info","message":"Tamaño de archivo remoto: 10183541","timestamp":"2015-03-02T21:01:07.504Z"}
+{"level":"info","message":"Tamaño de archivo remoto: 4127196","timestamp":"2015-03-02T21:01:07.505Z"}
+{"level":"info","message":"Tamaño de archivo remoto: 11509054","timestamp":"2015-03-02T21:01:07.506Z"}
+{"level":"info","message":"Tamaño de archivo remoto: 9063644","timestamp":"2015-03-02T21:02:12.519Z"}
+{"level":"info","message":"Tamaño de archivo remoto: 9402973","timestamp":"2015-03-02T21:02:12.522Z"}
+{"level":"info","message":"Tamaño de archivo remoto: 755091","timestamp":"2015-03-02T21:02:12.523Z"}
+{"level":"info","message":"Tamaño de archivo remoto: 1563918","timestamp":"2015-03-02T21:02:12.525Z"}
+{"level":"info","message":"Tamaño de archivo remoto: 10185895","timestamp":"2015-03-02T21:02:12.527Z"}
+{"level":"info","message":"Recibiendo 2644 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.422Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.423Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.424Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.425Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.426Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.427Z"}
+{"level":"info","message":"Recibiendo 8688 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.430Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.434Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.435Z"}
+{"level":"info","message":"Recibiendo 4092 bytes de v1-nutricia-vital-aire.mp4","timestamp":"2015-03-02T21:03:01.436Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.442Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.443Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.444Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.444Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.444Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.445Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.445Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.448Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.448Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.449Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.449Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-nutricia-vital-aire.mp4","timestamp":"2015-03-02T21:03:01.451Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-nutricia-vital-aire.mp4","timestamp":"2015-03-02T21:03:01.451Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-nutricia-vital-aire.mp4","timestamp":"2015-03-02T21:03:01.451Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-nutricia-vital-aire.mp4","timestamp":"2015-03-02T21:03:01.452Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-nutricia-vital-aire.mp4","timestamp":"2015-03-02T21:03:01.452Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.453Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.461Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.462Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.467Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.467Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.468Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.468Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-aseptobron.mp4","timestamp":"2015-03-02T21:03:01.469Z"}
+{"level":"info","message":"Recibiendo 1448 bytes de v1-nutricia-vital-aire.mp4","timestamp":"2015-03-02T21:03:01.472Z"}
+{"level":"info","message":"Recibiendo 5792 bytes de v1-nutricia-vital-aire.mp4","timestamp":"2015-03-02T21:03:01.473Z"}
+{"level":"info","message":"Recibiendo 2896 bytes de v1-nutricia-vital-aire.mp4","timestamp":"2015-03-02T21:03:01.473Z"}

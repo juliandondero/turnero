@@ -1,0 +1,99 @@
+{
+    "colas": {
+        "1": {
+            "nombre": "cola 1",
+            "prefijo": "A",
+            "color": "#b31010",
+            "nro_inicial": "0",
+            "nro_final": "10",
+            "$edit": false,
+            "$pointer": "none"
+        },
+        "2": {
+            "nombre": "cola 2",
+            "prefijo": "B",
+            "color": "blue",
+            "nro_inicial": "0",
+            "nro_final": "12"
+        },
+        "3": {
+            "nombre": "cola 3",
+            "prefijo": "C",
+            "color": "green",
+            "nro_inicial": "0",
+            "nro_final": "12"
+        },
+        "4": {
+            "nombre": "cola 4",
+            "prefijo": "D",
+            "color": "pink",
+            "nro_inicial": "0",
+            "nro_final": "12"
+        },
+        "5": {
+            "nombre": "Cola 55",
+            "prefijo": "G",
+            "color": "#ebff00",
+            "nro_inicial": 0,
+            "nro_final": 13
+        },
+        "6": {
+            "nombre": "cola obra sociales",
+            "prefijo": "E",
+            "color": "#00d1ff",
+            "nro_inicial": 0,
+            "nro_final": 14
+        },
+        "7": {
+            "nombre": "asdasd",
+            "prefijo": "22",
+            "nro_inicial": 1,
+            "nro_final": 33,
+            "color": "#1400ff"
+        }
+    },
+    "grupos": {
+        "1": {
+            "nombre": "nombre grupo 1",
+            "colas": [
+                "4",
+                "5",
+                "3",
+                "1"
+            ]
+        },
+        "2": {
+            "nombre": "nombre grupo 2",
+            "colas": [
+                "2",
+                "3",
+                "4"
+            ]
+        },
+        "3": {
+            "colas": [
+                "1",
+                "4"
+            ],
+            "nombre": "grupo 3"
+        }
+    },
+    "pantallas": {
+        "1": {
+            "grupos": [
+                "1"
+            ]
+        },
+        "2": {
+            "grupos": [
+                "2"
+            ]
+        },
+        "3": {
+            "grupos": [
+                "1",
+                "3"
+            ]
+        }
+    }
+}
